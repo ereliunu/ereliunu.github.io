@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ereliunu.github.io/sitemap_index.ereliunu
